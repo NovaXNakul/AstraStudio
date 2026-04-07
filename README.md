@@ -1,4 +1,8 @@
-# 🚀 AI Agent Content Automation Platform
+# 🚀 AstraStudio – AI Content Automation Platform
+
+## 🌐 Live Demo
+https://astra-studio-8l1jpnx1d-novaxnakuls-projects.vercel.app/
+> Automate Content. Amplify Creativity.
 
 ## 🌟 Overview
 This project is a **multi-agent AI-powered content automation system** that streamlines the entire content lifecycle — from research to blog generation, SEO optimization, and social media content creation.
