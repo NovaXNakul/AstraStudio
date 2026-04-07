@@ -6,6 +6,16 @@ This project is a **multi-agent AI-powered content automation system** that stre
 Built with a **modern Next.js frontend + AI backend integration**, this platform demonstrates real-world applications of **AI agents and workflow orchestration**.
 
 ---
+## 📸 Screenshots
+
+### 🏠 UI
+![UI](./screenshots/UI.png)
+
+### ✍️ Blog Generation
+![Blog](./screenshots/Blog.png)
+
+### 📱 Social Content
+![Social](./screenshots/Social.png)
 
 ## 🧠 Key Features
 
